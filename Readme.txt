@@ -1,4 +1,4 @@
-Olá, Para simplificar a criação das queries, os arquivos de dados passado foram importados e serão utilizadas nas queries como as seguintes tabelas:
+Olá, Para simplificar a criação das queries, os arquivos de dados passados foram importados e serão utilizadas nas queries como as seguintes tabelas:
 
 -----------------------------------------------------
 |Arquivo de dados                 | Tabela no bd    |
